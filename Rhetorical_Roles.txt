@@ -1,0 +1,8 @@
+1. Identification (identificação das partes)
+2. Facts (fatos)
+3. Arguments (argumentos)
+4. Legal basis (fundamentação legal)
+5. Precedents (jurisprudência)
+6. Requests (pedidos)
+7. Remedy (valor da causa)
+8. Others (outros)
